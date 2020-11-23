@@ -1,0 +1,10 @@
+class Arrow{
+    constructor(){
+
+    }
+
+    display(){
+
+    }
+    
+}
